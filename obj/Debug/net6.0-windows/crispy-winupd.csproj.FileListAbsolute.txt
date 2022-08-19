@@ -1,0 +1,17 @@
+U:\vsprojects\crispy-winupd\bin\Debug\net6.0-windows\crispy-winupd.exe
+U:\vsprojects\crispy-winupd\bin\Debug\net6.0-windows\crispy-winupd.deps.json
+U:\vsprojects\crispy-winupd\bin\Debug\net6.0-windows\crispy-winupd.runtimeconfig.json
+U:\vsprojects\crispy-winupd\bin\Debug\net6.0-windows\crispy-winupd.dll
+U:\vsprojects\crispy-winupd\bin\Debug\net6.0-windows\crispy-winupd.pdb
+U:\vsprojects\crispy-winupd\obj\Debug\net6.0-windows\crispy-winupd.csproj.AssemblyReference.cache
+U:\vsprojects\crispy-winupd\obj\Debug\net6.0-windows\WinFormsApp1.W10UA.resources
+U:\vsprojects\crispy-winupd\obj\Debug\net6.0-windows\crispy-winupd.csproj.GenerateResource.cache
+U:\vsprojects\crispy-winupd\obj\Debug\net6.0-windows\crispy-winupd.GeneratedMSBuildEditorConfig.editorconfig
+U:\vsprojects\crispy-winupd\obj\Debug\net6.0-windows\crispy-winupd.AssemblyInfoInputs.cache
+U:\vsprojects\crispy-winupd\obj\Debug\net6.0-windows\crispy-winupd.AssemblyInfo.cs
+U:\vsprojects\crispy-winupd\obj\Debug\net6.0-windows\crispy-winupd.csproj.CoreCompileInputs.cache
+U:\vsprojects\crispy-winupd\obj\Debug\net6.0-windows\crispy-winupd.dll
+U:\vsprojects\crispy-winupd\obj\Debug\net6.0-windows\refint\crispy-winupd.dll
+U:\vsprojects\crispy-winupd\obj\Debug\net6.0-windows\crispy-winupd.pdb
+U:\vsprojects\crispy-winupd\obj\Debug\net6.0-windows\crispy-winupd.genruntimeconfig.cache
+U:\vsprojects\crispy-winupd\obj\Debug\net6.0-windows\ref\crispy-winupd.dll

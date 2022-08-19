@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\WinFormsApp1\\WinFormsApp1.csproj",
-      "projectName": "WinFormsApp1",
-      "projectPath": "D:\\Projects\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "U:\\vsprojects\\crispy-winupd\\crispy-winupd.csproj",
+      "projectName": "crispy-winupd",
+      "projectPath": "U:\\vsprojects\\crispy-winupd\\crispy-winupd.csproj",
       "packagesPath": "C:\\Users\\d7m51\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\WinFormsApp1\\obj\\",
+      "outputPath": "U:\\vsprojects\\crispy-winupd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\d7m51\\AppData\\Roaming\\NuGet\\NuGet.Config",

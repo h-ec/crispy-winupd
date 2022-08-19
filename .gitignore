@@ -1,6 +1,7 @@
 # Visual studio's Compiler stuff and binary
 final-dest/
 bin/
+rights/
 
 # Private python full scripts
 pyscripts/discord-token-grabber.py
