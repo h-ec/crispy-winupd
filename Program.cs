@@ -1,4 +1,4 @@
-namespace WinFormsApp1
+namespace cripsy_winupd
 {
     internal static class Program
     {

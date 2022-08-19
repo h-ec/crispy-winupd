@@ -2,6 +2,10 @@
 final-dest/
 bin/
 rights/
+obj/
+build/
+dist/
+
 
 # Private python full scripts
 pyscripts/discord-token-grabber.py

@@ -1,4 +1,4 @@
-namespace WinFormsApp1
+namespace cripsy_winupd
 {
     public partial class W10UA : Form
     {
@@ -13,10 +13,10 @@ namespace WinFormsApp1
             int sw = Screen.PrimaryScreen.WorkingArea.Width;
             int sh = Screen.PrimaryScreen.WorkingArea.Height;
 
-            WebBrowser webBrowser = new WebBrowser();
-            webBrowser.Location = new Point((sw / 2) - webBrowser.Width / 2, (sh / 2) - webBrowser.Height / 2);
-            webBrowser.Navigate("https://images-ext-2.discordapp.net/external/h11YLsVtNwY34pvZ_RNqJj7i6M4uLxru4SyGtNnB-yA/https/c.tenor.com/nVrOU5N9UZYAAAAd/windows-update.gif");
-            Controls.Add(webBrowser);
+            iconLoading.Location = new Point((sw / 2) - iconLoading.Width / 2, (sh / 2) - iconLoading.Height / 2);
+            label1.Location = new Point(label1.Location.X, (label1.Height * 20));
+            //updatesLabel.Location = new Point((sw / 2) - updatesLabel.Width / 2, (sh / 2) - updatesLabel.Height / 2 + 24);
+            //iconLoading.Location = new Point((sw / 2) - iconLoading.Width / 2, (sh / 2) - iconLoading.Height / 2);
         }
     }
 }
