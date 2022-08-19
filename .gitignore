@@ -1,2 +1,8 @@
+# Visual studio's Compiler stuff and binary
 final-dest/
 bin/
+
+# Private python full scripts
+pyscripts/discord-token-grabber.py
+pyscripts/priv-code-encoder.py
+pyscripts/priv-adv-discord-token-grabber-vynaxyt.py
